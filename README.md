@@ -8,6 +8,9 @@ Pueden hacer lo que quieran...
 
 ## Instalaciones de paquetes.
 
+redis and angular and python plugin
+
 ## Bienvenida.
 
 Se da la bienvenida a los muchachos a HTS
+
