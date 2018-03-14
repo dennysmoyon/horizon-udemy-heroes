@@ -14,3 +14,7 @@ redis and angular and python plugin
 
 Se da la bienvenida a los muchachos a HTS
 
+gracias amigos por la bienvenida.
+
+trabajemos con empeño 
+
